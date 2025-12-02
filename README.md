@@ -6,7 +6,8 @@ Weather dashboard
 How to run
 1. Ensure Node.js is installed 
 
-2. cmd:
+2. cmd
+
 -cd weather dashboard
 -npm install
 -npm start
